@@ -1,0 +1,22 @@
+
+
+
+p{
+    font-size: 20px;
+    color: red;
+}
+.grey {
+    color: grey;
+}
+#sec2 {
+    color: yellow;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: blue;
+}
+* {
+    border: 1px dashed red;
+
+}
