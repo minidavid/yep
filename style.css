@@ -1,22 +1,6 @@
-
-
-
-p{
-    font-size: 20px;
-    color: red;
-}
-.grey {
-    color: grey;
-}
-#sec2 {
-    color: yellow;
-}
-
-p span {
-    text-transform: uppercase;
-    background-color: blue;
-}
 * {
+    background-color: black;
+}
+hr {
     border: 1px dashed red;
-
 }
